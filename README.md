@@ -5,6 +5,12 @@ TECH(K)NOW 2018. Start the tutorial in Step 0.
 
 ## Step 0: Initial point
 
+### Online IDE
+
+https://codesandbox.io/s/yq77xr7nwv
+
+### Local IDE
+
 Copy the folder `src-step-0` to `src`, open your favourite text
 editor and run `npm start` (After running `npm i`, of course).
 
