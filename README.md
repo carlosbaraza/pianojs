@@ -18,11 +18,17 @@ The folder includes:
 
 ## Step 1: Create Keyboard component
 
+![Step 1](docs/step-1.png)
+
 ## Step 2: Create Key component
+
+![Step 2](docs/step-2.png)
 
 ## Step 3: Adding WebAudio synth
 
 ## Step 4: Adding Controls component
+
+![Step 4](docs/step-4.png)
 
 ## Step 5: Adding real piano samples
 
